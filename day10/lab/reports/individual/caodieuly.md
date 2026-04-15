@@ -1,6 +1,6 @@
 # Báo cáo cá nhân - Ly
 
-**Họ và tên:** Ly  
+**Họ và tên:** Cao Diệu Ly  
 **Vai trò:** Monitoring / Docs Owner  
 **Ngày nộp:** 2026-04-15
 
