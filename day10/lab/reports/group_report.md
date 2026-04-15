@@ -1,6 +1,6 @@
 # Báo cáo nhóm - Lab Day 10
 
-**Tên nhóm:** Team Day10-CS-IT  
+**Tên nhóm:** Team 15 Day10-CS-IT  
 **Thành viên:**
 | Tên | Vai trò (Day 10) | Email |
 |---|---|---|
@@ -10,7 +10,7 @@
 | Ly | Monitoring / Docs Owner | caodieuly1508@gmail.com |
 
 **Ngày nộp:** 2026-04-15  
-**Repo:** `day10/lab`
+**Repo:** `https://github.com/KaitoKidKao/Lecture-Day-08-09-10.git`
 
 ## 1. Pipeline tổng quan
 

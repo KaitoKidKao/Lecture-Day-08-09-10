@@ -1,6 +1,6 @@
 # Báo cáo cá nhân - Cao
 
-**Họ và tên:** Cao  
+**Họ và tên:** Nguyễn Trí Cao  
 **Vai trò:** Cleaning / Quality Owner  
 **Ngày nộp:** 2026-04-15
 
