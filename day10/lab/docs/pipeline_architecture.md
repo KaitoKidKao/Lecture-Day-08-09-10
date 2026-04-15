@@ -1,6 +1,6 @@
 # Kiến trúc pipeline - Lab Day 10
 
-**Nhóm:** Team Day10-CS-IT  
+**Nhóm:** Team 15 Day10-CS-IT  
 **Cập nhật:** 2026-04-15
 
 ## 1. Sơ đồ luồng
