@@ -6,7 +6,7 @@
 |---|---|---|
 | Nam | Ingestion Owner | nam@example.com |
 | Cao | Cleaning / Quality Owner | cao@example.com |
-| Tuấn | Embed Owner | tuan@example.com |
+| Tuấn | Embed Owner | 26ai.tuanlm@vinuni.edu.vn |
 | Ly | Monitoring / Docs Owner | ly@example.com |
 
 **Ngày nộp:** 2026-04-15  

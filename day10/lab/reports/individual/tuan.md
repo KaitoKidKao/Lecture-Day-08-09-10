@@ -1,6 +1,6 @@
 # Báo cáo cá nhân - Tuấn
 
-**Họ và tên:** Tuấn  
+**Họ và tên:**   Lê Minh Tuấn
 **Vai trò:** Embed Owner  
 **Ngày nộp:** 2026-04-15
 
